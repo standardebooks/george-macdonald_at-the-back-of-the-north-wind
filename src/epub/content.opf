@@ -32,29 +32,29 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85046925</meta>
 		<meta property="se:subject">Children’s</meta>
+		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young boy’s life is transformed by his visit to the country at the back of the north wind.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;As a poor cabbie and his wife eek out a meager existence in Victorian London, their little boy, Diamond—named after his father’s horse—is befriended by the North Wind. While Diamond learns much about life through his travels with North Wind, his visit to the country at her “back” proves to be transformative. As life in London grows especially hard, that moment provides Diamond with the resources to touch those around him with beauty and truth.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald’s&lt;/a&gt; richly imaginative fanatsy writing proved to be highly influential, inspiring a later generation of authors including C. S. Lewis. Although &lt;i&gt;At the Back of the North Wind&lt;/i&gt; was written for children, in it MacDonald deals with deep themes, especially the potential for suffering to be redemptive, and the nature of death.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/225</dc:source>
 		<dc:source>https://archive.org/details/atbackofnorthwin00macd_1</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/At_the_Back_of_the_North_Wind</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_at-the-back-of-the-north-wind</meta>
 		<dc:creator id="author">George MacDonald</dc:creator>
 		<meta property="file-as" refines="#author">MacDonald, George</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_MacDonald</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78096948</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Edward Robert Hughes</dc:contributor>
+		<meta property="file-as" refines="#artist">Hughes, Edward Robert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edward_Robert_Hughes</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n2021029072</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Martin Ward</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Ward, Martin</meta>
