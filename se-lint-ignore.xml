@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-21.xhtml">
-		<ignore>
-			<code>t-042</code>
-			<reason>Single quotes appear in extended dialog that spans several paragraphs and verse quotations.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
