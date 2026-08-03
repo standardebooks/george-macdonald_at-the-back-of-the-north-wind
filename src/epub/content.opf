@@ -43,7 +43,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/225</dc:source>
 		<dc:source>https://archive.org/details/atbackofnorthwin00macd_1</dc:source>
-		<meta property="schema:wordCount">88867</meta>
+		<meta property="schema:wordCount">88868</meta>
 		<meta property="schema:educationalLevel">89.58</meta>
 		<link href="https://en.wikipedia.org/wiki/At_the_Back_of_the_North_Wind" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
