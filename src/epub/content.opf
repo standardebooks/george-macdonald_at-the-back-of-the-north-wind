@@ -35,7 +35,7 @@
 		<meta property="term" refines="#subject-1">sh85046925</meta>
 		<meta property="schema:genre">Children’s</meta>
 		<meta property="schema:genre">Fantasy</meta>
-		<dc:abstract>A young boy’s life is transformed by his visit to the country at the back of the north wind.</dc:abstract>
+		<meta property="schema:abstract">A young boy’s life is transformed by his visit to the country at the back of the north wind.</meta>
 		<dc:description>
 			&lt;p&gt;As a poor cabbie and his wife eke out a meager existence in Victorian London, their little boy, Diamond—named after his father’s horse—is befriended by the North Wind. While Diamond learns much about life through his travels with North Wind, his visit to the country at her “back” proves to be transformative. As life in London grows especially hard, that moment provides Diamond with the resources to touch those around him with beauty and truth.&lt;/p&gt;
 			&lt;p&gt;Although &lt;i&gt;At the Back of the North Wind&lt;/i&gt; was written for children, in it &lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;MacDonald&lt;/a&gt; deals with deep themes, especially the potential for suffering to be redemptive, and the meaning of death.&lt;/p&gt;
